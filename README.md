@@ -65,7 +65,7 @@ To get a copy of the project up and running on your local machine, follow these 
 3. **Set up the frontend:**
    - Navigate to the `client` directory:
      ```bash
-     cd client
+     cd ..
      ```
    - Install the required dependencies:
      ```bash
