@@ -14,8 +14,9 @@ Welcome to **Google Docs Clone**! This project is a real-time collaborative docu
 ## Screenshots
 
 <div style="display: flex; overflow-x: auto; padding: 10px; gap: 50px;">
-  <img src="https://github.com/Ketan-Verma21/Google-Docs-Clone/assets/106913278/e849abdc-5b8a-4c5c-ae0a-9a9cb6f22fca" alt="Google Sign in" width="450" />
   <img src="https://github.com/Ketan-Verma21/Google-Docs-Clone/assets/106913278/cccad5d3-cc91-4299-8494-2ecbd3e9dfb7" alt="Auth Page" width="450" />
+  <img src="https://github.com/Ketan-Verma21/Google-Docs-Clone/assets/106913278/e849abdc-5b8a-4c5c-ae0a-9a9cb6f22fca" alt="Google Sign in" width="450" />
+  
   <img src="https://github.com/Ketan-Verma21/Google-Docs-Clone/assets/106913278/1bde28b8-5e44-4812-92f8-24629a0b58dd" alt="Home Page" width="450" />
   <img src="https://github.com/Ketan-Verma21/Google-Docs-Clone/assets/106913278/eb24965e-c51e-4b8c-bd55-39712570e92a" alt="Document Page" width="450" />
   <img src="https://github.com/Ketan-Verma21/Google-Docs-Clone/assets/106913278/f4984ca3-3059-4468-80af-d4b6de00f62e" alt="Document edited" width="450" />
