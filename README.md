@@ -13,7 +13,7 @@ Welcome to **Google Docs Clone**! This project is a real-time collaborative docu
 
 ## Screenshots
 
-<div style="display: flex; overflow-x: auto; padding: 10px; gap: 50px;">
+<div style="display: flex; overflow-x: auto; padding: 50px; gap: 100px;">
   <img src="https://github.com/Ketan-Verma21/Google-Docs-Clone/assets/106913278/cccad5d3-cc91-4299-8494-2ecbd3e9dfb7" alt="Auth Page" width="450" />
   <img src="https://github.com/Ketan-Verma21/Google-Docs-Clone/assets/106913278/e849abdc-5b8a-4c5c-ae0a-9a9cb6f22fca" alt="Google Sign in" width="450" />
   
